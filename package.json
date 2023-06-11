@@ -1,0 +1,15 @@
+{
+  "name": "blockchain6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "upload.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "web3": "^1.8.2",
+    "web3.storage": "^4.4.0"
+  }
+}
